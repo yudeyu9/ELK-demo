@@ -1,0 +1,1 @@
+server:  port: 8080  servlet:    context-path: /elkDemo/spring:  application:    name: elkDemologging:  config: classpath:logback-sprin.xml
